@@ -10,6 +10,7 @@ requirements.
 
 | Reference | Use it for | Do not infer from it |
 | --- | --- | --- |
+| [`yukkcat/chatgpt2api`](https://github.com/yukkcat/chatgpt2api) | Fork base `v3.2.3` (`d58db04`); updates through `v3.2.10` (`caa25f4`) integrated while retaining local registration, refresh-all actions, and release configuration | That upstream and fork version numbers identify the same feature set or release |
 | [`basketikun/chatgpt2api`](https://github.com/basketikun/chatgpt2api) | Upstream ChatGPT Web protocol behavior, project ancestry, and deployment comparison | That a route, option, storage layout, or failure behavior still exists locally |
 | [`basketikun/infinite-canvas`](https://github.com/basketikun/infinite-canvas) | Concise contributor guidance, documentation indexing, and explicit separation of implementation from pending verification | That its product boundaries, frontend architecture, task lifecycle, or release process applies here |
 | [`colbymchenry/codegraph`](https://github.com/colbymchenry/codegraph) | Symbol lookup, caller/callee discovery, route indexing, and change-impact exploration | That a generated edge establishes domain ownership or that every dynamic dependency was found |
